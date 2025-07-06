@@ -1,12 +1,24 @@
 `bind = $mainMod, F1, exec, firedragon`
+
 `bind = $mainMod, F2, exec, thunderbird`
-`bind = $mainMod, F3, exec, thunar`
+
+`bind = $mainMod, F3, exec, thunar
+`
 `bind = $mainMod, F4, exec, geany`
+
 `bind = $mainMod, F5, exec, github-desktop`
+
 `bind = $mainMod, F6, exec, gparted`
+
 `bind = $mainMod, F7, exec, inkscape`
+
 `bind = $mainMod, F8, exec, blender`
+
 `bind = $mainMod, F9, exec, meld`
+
 `bind = $mainMod, F10, exec, joplin-desktop`
+
 `bind = $mainMod, F11, exec, snapper-tools`
-`bind = $mainMod, F12, exec, galculator`
+
+`bind = $mainMod, F12, exec, galculator
+`
