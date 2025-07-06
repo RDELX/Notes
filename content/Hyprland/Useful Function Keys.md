@@ -9,5 +9,4 @@
 - `bind = $mainMod, F9, exec, meld`
 - `bind = $mainMod, F10, exec, joplin-desktop`
 - `bind = $mainMod, F11, exec, snapper-tools`
-- `bind = $mainMod, F12, exec, galculator
-- `
+- `bind = $mainMod, F12, exec, galculator`
